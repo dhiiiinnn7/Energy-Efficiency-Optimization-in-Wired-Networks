@@ -16,9 +16,9 @@ This project explores reducing energy usage in wired backbone networks through t
 
 ## Project Structure
 
+- `Energy Efficiency Optimization in Wired Networks: Analysing the Impact of Smart Sleeping Techniques on OSPF Protocol Performance.pdf`: Detailed report on the project, methodologies, and findings.
 - `ENERGY CONSUMPTION.xlsx`: Contains data on energy consumption under different scenarios.
 - `Packet Delay.xlsm`: Contains data on packet delays in the network.
-- `Energy Efficiency Optimization in Wired Networks: Analysing the Impact of Smart Sleeping Techniques on OSPF Protocol Performance.pdf`: Detailed report on the project, methodologies, and findings.
 - `High Traffic Simulation - Configuration.netsim`: NetSim configuration file for high traffic simulation.
 - `High Traffic Simulation with Smart Sleeping - Configuration.netsim`: NetSim configuration file for high traffic simulation with smart sleeping.
 - `Low Traffic Simulation - Configuration.netsim`: NetSim configuration file for low traffic simulation.
